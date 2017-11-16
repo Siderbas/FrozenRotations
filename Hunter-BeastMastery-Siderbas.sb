@@ -17,7 +17,7 @@ Spell,2643,Multishot,3
 Spell,120679,DireBeast,4
 Spell,19574,BestialWrath,5
 Spell,131894,MurderOfCrows,6
-Spell,217200,Direfrenzy,7
+Spell,217200,DireFrenzy,7
 Spell,34026,Killcommand,8
 Spell,207068,Titansthunder,9
 Spell,193530,Aspectofthewild,10
@@ -37,7 +37,7 @@ Aura,120257,DrumsOfFury
 Aura,142406,DrumsOfMountain
 Aura,193530,Aspectofthewild
 Aura,19574,BestialWrath
-Aura,217200,DireFrenzy
+Aura,246152,DireFrenzy
 Aura,120694,DireBeast
 Aura,186265,TurtleAura
 */
